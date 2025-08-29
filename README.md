@@ -1,7 +1,6 @@
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/SIVASHANKAR P) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sivashankar8112004@gmail.com) 
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](linkedin.com/in/sivashankar-p-14348424b/)
 # 💻 Tech Stack:# 💫 About Me:
 👨‍💻 MCA (Generative AI) student at SRM, passionate about AI & Data Science<br>📚 Completed B.Sc. Computer Science at VIT, always eager to learn new tech<br>🚀 Aspiring AI Engineer, already building projects in ML, DL & IoT<br>
 
